@@ -1,0 +1,19 @@
+{
+  "short_name": "RAL Coach",
+  "name": "RAL Coach: Reflective Adaptive Leadership",
+  "description": "Executive Leadership AI Coach, 360° Psychometric Self-Diagnostic, and Team Transformation System based on RK Vedant's RAL Doctrine.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a1128",
+  "theme_color": "#0a1128",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}

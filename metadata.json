@@ -1,0 +1,8 @@
+{
+  "name": "Remix RAL Coach",
+  "description": "Reflective Adaptive Leadership (RAL) - Executive AI Coaching, 360° Psychometric Self-Diagnostics, Scenario Simulation, and Team Culture Transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
